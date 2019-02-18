@@ -1,4 +1,4 @@
-##Tutorial Document
+# Tutorial Document
 
 ## Goal
   * Create my own command line game!
